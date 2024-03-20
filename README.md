@@ -1,0 +1,1 @@
+pdf parser mini-app for job ads
